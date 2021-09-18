@@ -5,6 +5,6 @@
 
 RakBot Crack 0.8.2.1 with modified RakLaunch by BBooGG, updated servers and with libraries: [Download](https://files.kizn.fun/RakBot-0.8.2.1.exe)
 
-` © Wiki by k1zn, RakBot by MishaN 2021-? `
+` © Wiki by k1zn, RakBot by MishaN 2021 - ? `
 
 Thanks: **MishaN, winten**
