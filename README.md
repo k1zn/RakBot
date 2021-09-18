@@ -1,1 +1,1 @@
-Go to [Wiki](https://github.com/k1zn/RakBotWiki/wiki) to see wiki for RakBot.
+Go to [Wiki](https://github.com/k1zn/RakBot/wiki/RakBot-Wiki) to see wiki for RakBot.
