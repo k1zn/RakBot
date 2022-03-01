@@ -8,4 +8,4 @@ RakBot Crack 0.8.2.1 with modified RakLaunch by BBooGG, updated servers list and
 
 ` © Wiki by k1zn, RakBot by MishaN `
 
-Thanks: **MishaN, winten, whyrinki**
+Thanks: **MishaN, winten, whyrinki, Sparebola**
