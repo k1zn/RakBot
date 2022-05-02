@@ -6,6 +6,8 @@
 
 RakBot Crack 0.8.2.1 with modified RakLaunch by BBooGG, updated servers list and with libraries: [Download](https://github.com/k1zn/RakBot/releases/download/v0.8.2.1/RakBot_setup.exe)
 
+УСТАНАВЛИВАЙТЕ RAKBOT НЕ В ПАПКУ PROGRAM FILES!
+
 ` © Wiki by k1zn, RakBot by MishaN `
 
 Thanks: **MishaN, winten, whyrinki, Sparebola**
