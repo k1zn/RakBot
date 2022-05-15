@@ -4,7 +4,7 @@
 * [Events](https://github.com/k1zn/RakBot/wiki/%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
 * [Commands](https://github.com/k1zn/RakBot/wiki/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)
 
-![](https://raw.githubusercontent.com/k1zn/RakBot/main/images/logo.png) RakBot Crack 0.8.2.1: [Download](https://github.com/k1zn/RakBot/releases/download/v0.8.2.1/)
+![](https://raw.githubusercontent.com/k1zn/RakBot/main/images/logo.png) RakBot Crack 0.8.2.1: [Download](https://github.com/k1zn/RakBot/releases/tag/v0.8.2.1/)
 
 ` © Wiki by k1zn, RakBot by MishaN `
 
